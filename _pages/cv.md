@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version [here](/files/galioto-cv.pdf)
+PDF version [here](../files/galioto-cv.pdf)
 
 Education
 ======
-* Ph.D in Aerospace Engineering, University of Michigan, 2023
-* M.S.E. in Aerospace Engineering, University of Michigan, 2023
-* B.S.E. in Mechanical Engineering, Vanderbilt University, 2018
+* PhD in Aerospace Engineering, University of Michigan, 2023
+* MSE in Aerospace Engineering, University of Michigan, 2023
+* BE in Mechanical Engineering, Vanderbilt University, 2018

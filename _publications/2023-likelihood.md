@@ -17,6 +17,6 @@ Recommended BibTeX entry:
   title={Likelihood-based generalization of {M}arkov parameter estimation and multiple shooting objectives in system identification},
   author={Galioto, Nicholas and Gorodetsky, Alex Arkady},
   journal={arXiv preprint arXiv:2212.13902},
-  year={2022}
+  year={2023}
 }
 ```

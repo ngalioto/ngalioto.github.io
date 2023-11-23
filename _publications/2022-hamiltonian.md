@@ -21,5 +21,6 @@ Recommended BibTeX entry:
   volume={},
   number={},
   pages={6742-6749},
-  doi={10.1109/CDC51059.2022.9992571}}
+  doi={10.1109/CDC51059.2022.9992571}
+}
 ```

@@ -18,7 +18,7 @@ Recommended BibTeX entry:
 @INPROCEEDINGS{galioto2020hamiltonian,
   author={Galioto, Nicholas and Gorodetsky, Alex A.},
   booktitle={2020 59th IEEE Conference on Decision and Control (CDC)}, 
-  title={{B}ayesian Identification of {H}amiltonian Dynamics from Symplectic Data}, 
+  title={Bayesian Identification of {H}amiltonian Dynamics from Symplectic Data}, 
   year={2020},
   volume={},
   number={},

@@ -16,7 +16,7 @@ System identification of dynamical systems is often posed as a least squares min
 Recommended BibTeX entry:
 ```bibtex
 @article{galioto2020bayesian,
-  title={{B}ayesian system {ID}: optimal management of parameter, model, and measurement uncertainty},
+  title={Bayesian system {ID}: optimal management of parameter, model, and measurement uncertainty},
   author={Galioto, Nicholas and Gorodetsky, Alex Arkady},
   journal={Nonlinear Dynamics},
   volume={102},

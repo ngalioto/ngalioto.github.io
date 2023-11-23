@@ -18,7 +18,7 @@ Recommended BibTeX entry:
 @INPROCEEDINGS{sharma2022hamiltonian,
   author={Sharma, Harsh and Galioto, Nicholas and Gorodetsky, Alex A. and Kramer, Boris},
   booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)}, 
-  title={{B}ayesian Identification of Nonseparable {H}amiltonian Systems Using Stochastic Dynamic Models}, 
+  title={Bayesian Identification of Nonseparable {H}amiltonian Systems Using Stochastic Dynamic Models}, 
   year={2022},
   volume={},
   number={},

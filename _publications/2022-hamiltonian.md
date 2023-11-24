@@ -2,9 +2,9 @@
 title: "Bayesian Identification of Nonseparable Hamiltonian Systems Using Stochastic Dynamic Models"
 collection: publications
 permalink: /publication/2022-hamiltonian
-# excerpt:
+excerpt:
 date: 2022-12-06
-venue: 'Conference on Decision and Control'
+venue: '61st IEEE Conference on Decision and Control'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9992571'
 citation: 'Harsh Sharma, Nicholas Galioto, Alex Arkady Gorodetsky, and Boris Kramer. Bayesian Identification of Nonseparable Hamiltonian Systems Using Stochastic Dynamic Models. In <i>2022 61st IEEE Conference on Decision and Control (CDC)</i>, pages 6742--6749. IEEE, 2022.'
 ---

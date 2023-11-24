@@ -2,9 +2,9 @@
 title: "Bayesian identification of Hamiltonian dynamics from symplectic data"
 collection: publications
 permalink: /publication/2020-hamiltonian
-# excerpt: 
+excerpt: 
 date: 2020-12-14
-venue: 'Conference on Decision and Control'
+venue: '59th IEEE Conference on Decision and Control'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9303852'
 citation: 'Nicholas Galioto and Alex Arkady Gorodetsky. Bayesian identification of Hamiltonian dynamics from symplectic data. In <i>2020 59th IEEE Conference on Decision and Control (CDC)</i>, pages 1190–1195. IEEE, 2020.'
 ---

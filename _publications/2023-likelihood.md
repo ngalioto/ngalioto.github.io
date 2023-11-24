@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-likelihood
 # excerpt:
 date: 2023-01-20
-venue: 'Preprint'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2212.13902'
 citation: 'Nicholas Galioto and Alex Arkady Gorodetsky. Likelihood-based generalization of Markov parameter estimation and multiple shooting objectives in system identification. <i>arXiv preprint arXiv:2212.13902</i>, 2023'
 ---

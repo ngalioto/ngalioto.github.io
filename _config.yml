@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicholas Galioto"
 title_separator          : "-"
 name                     : &name "Nicholas Galioto"
-description              : &description "Postdoc"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://ngalioto.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngalioto/ngalioto.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicholas Galioto"
   avatar           : "nick_square.jpg"
-  bio              : "Postdoc"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   pubmed           : 

@@ -4,6 +4,7 @@ models"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2021-siam-cse
+venue:
 date: 2021-03-04
 location: "Virtual"
 ---

@@ -3,6 +3,7 @@ title: "Accounting for model errors in probabilistic linear identification of no
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2021-usnccm
+venue:
 date: 2021-07-27
 location: "Virtual"
 ---

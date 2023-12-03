@@ -18,8 +18,8 @@ PDF version [here](../files/galioto-cv.pdf).
 * BE in Mechanical Engineering, Vanderbilt University, 2018
 
 # Work Experience
-
 ## Postdoctoral Research Fellow
+
 University of Michigan<br>
 Ann Arbor, MI<br>
 *July 2023 -- Present*
@@ -30,6 +30,7 @@ Ann Arbor, MI<br>
 * Communicates with other researchers how to utilize work in pursuit of their research interests.
 
 ## R&D Graduate Summer Intern
+
 Sandia National Laboratories<br>
 Livermore, CA<br>
 *May 2022 -- August 2022*

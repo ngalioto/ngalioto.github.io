@@ -25,9 +25,9 @@ Ann Arbor, MI<br>
 *July 2023 -- Present*
 
 **Description**<br>
-* Conducts research on system identification of dynamical systems using Bayesian inference/uncertainty quantification resulting in publications/talks
-* Formulates and implements statistical learning algorithms that can outperform popular methods under high uncertainty
-* Communicates with other researchers how to utilize work in pursuit of their research interests
+* Conducts research on system identification of dynamical systems using Bayesian inference/uncertainty quantification resulting in publications/talks.
+* Formulates and implements statistical learning algorithms that can outperform popular methods under high uncertainty.
+* Communicates with other researchers how to utilize work in pursuit of their research interests.
 
 ## R&D Graduate Summer Intern
 Sandia National Laboratories<br>
@@ -35,21 +35,21 @@ Livermore, CA<br>
 *May 2022 -- August 2022*
 
 **Description**<br>
-* Independently researched the applicability of functional tensor networks and variational inference for scalable Bayesian estimation of dynamical systems
-* Implemented tensor-train and sampling algorithms and integrated them with pre-existing code
-* Composed a summer-end technical report detailing research findings, conclusions, and future work
+* Independently researched the applicability of functional tensor networks and variational inference for scalable Bayesian estimation of dynamical systems.
+* Implemented tensor-train and sampling algorithms and integrated them with pre-existing code.
+* Composed a summer-end technical report detailing research findings, conclusions, and future work.
 
 # Teaching Assistantships
 
-* University of Michigan -- Ann Arbor, MI
-    * AEROSP 567: Statistical inference, estimation, and learning<br>
-      *Fall 2020 and 2021*
+**University of Michigan -- Ann Arbor, MI**<br>
+* AEROSP 567: Statistical inference, estimation, and learning<br>
+  *Fall 2020 and 2021*
 
-* Vanderbilt University -- Nashville, TN
-    * ME 4267: Aerospace propulsion<br>
-      *Spring 2018* 
-    * ME 3224: Fluid mechanics<br>
-        * *Fall 2017*
+**Vanderbilt University -- Nashville, TN**<br>
+* ME 4267: Aerospace propulsion<br>
+  *Spring 2018* 
+* ME 3224: Fluid mechanics<br>
+  *Fall 2017*
 
 # Professional Memberships
 

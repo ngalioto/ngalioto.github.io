@@ -1,6 +1,6 @@
 ---
 title: "Accounting for model errors in probabilistic linear identification of nonlinear PDE systems"
-collection: presentations
+collection: talks
 type: "Conference presentation"
 permalink: /talks/2021-usnccm
 date: 2021-07-27

@@ -1,6 +1,6 @@
 ---
 title: "Bayesian learning of stochastic dynamical models for quantities of interest"
-collection: presentations
+collection: talks
 type: "Conference presentation"
 permalink: /talks/2022-siam-uq
 venue: "Westin Peachtree Plaza"

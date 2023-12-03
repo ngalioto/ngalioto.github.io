@@ -1,6 +1,6 @@
 ---
 title: "Accounting for model uncertainty in the identification of partially known models"
-collection: presentations
+collection: talks
 type: "Conference presentation"
 permalink: /talks/2022-eccomas
 venue: "NOVA Spektrum"

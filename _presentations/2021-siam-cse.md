@@ -1,12 +1,11 @@
 ---
-title: "Robust Bayesian inference by accounting for model error: with applications to Hamiltonian sys-
-tems
+title: "Robust Bayesian inference by accounting for model error: with applications to Hamiltonian systems
 models"
-collection: talks
+collection: presentations
 type: "Conference presentation"
 permalink: /talks/2021-siam-cse
-venue: "Virtual"
 date: 2021-03-04
+location: "Virtual"
 ---
 
 [Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70165) presentation at [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21).

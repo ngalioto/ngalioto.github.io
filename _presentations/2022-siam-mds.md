@@ -1,6 +1,6 @@
 ---
 title: "Learning partially observed stochastic dynamical systems"
-collection: talks
+collection: presentations
 type: "Conference presentation"
 permalink: /talks/2022-siam-mds
 venue: "Town and Country Resort"

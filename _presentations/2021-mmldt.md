@@ -1,6 +1,6 @@
 ---
 title: "Enforcing physical phenomena in system identification using Bayesian inference and stochastic models"
-collection: talks
+collection: presentations
 type: "Conference presentation"
 permalink: /talks/2021-mmldt
 venue: "Hyatt Regency Mission Bay"

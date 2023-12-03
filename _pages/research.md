@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<br>
 # Current and Past Research
 
 ## Estimation under uncertainty using probabilistic modeling [[1](../publication/2020-bayesian), [2](../publication/2023-likelihood), [3](../publication/2020-hamiltonian)]
@@ -16,7 +14,7 @@ To produce reliable estimates under uncertainty, the model, measurement, and par
 
 One benefit of this approach is that it is general enough to contain many other system ID objectives as special cases. By pinpointing the assumptions needed to derive other objectives from this general framework, one can identify the types of problems for which a given objective is best and worst suited. As examples, I have shown in [1] the assumptions needed to arrive at well-known algorithms such as the dynamic mode decomposition (DMD) and the sparse ID of nonlinear dynamics algorithm, better known as SINDy. Then, I numerically validated my theoretical observations by showing that these algorithms' estimates incur greater error relative to the general approach when their corresponding assumptions are broken. An example result showing the posterior mean from the general framework significantly outperforming DMD on a simple linear system is given below. In a subsequent work [2], I also compared this Bayesian algorithm to a machine learning approach that had achieved state-of-the-art performance on a benchmark dataset containing 100,000 training data. After reducing the dataset to only 1,000 data points and adding noise, the Bayesian approach yielded **8.7 times lower mean squared error** than the comparison method. This showed that even state-of-the-art machine learning methods can be greatly improved for small and noisy datasets by proper modeling of uncertainty. Overall, these results demonstrate the robustness of the probabilistic approach under uncertainty and illustrate how the framework can be used to offer a new perspective on the optimality of existing objective functions.
 
-![A plot of position vs. time of a simple harmonic oscillator showing the truth, the posterior mean with a shaded region containing 95% of posterior samples, the comparison method DMD, and the data. The overlaid data are very noisy, but the posterior mean is still able to closely reconstruct the truth. The comparison method DMD quickly approaches the stationary point at zero, which does not match the true system behavior.](../files/pendulum.pdf)
+![A plot of position vs. time of a simple harmonic oscillator showing the truth, the posterior mean with a shaded region containing 95% of posterior samples, the comparison method DMD, and the data. The overlaid data are very noisy, but the posterior mean is still able to closely reconstruct the truth. The comparison method DMD quickly approaches the stationary point at zero, which does not match the true system behavior.](../files/pendulum.png "The posterior mean outperforms DMD on noisy data from a simple harmonic oscillator.")
 
 In addition to improvements in estimation accuracy, the use of a stochastic dynamics model for system ID delivers the following three unique benefits.
 

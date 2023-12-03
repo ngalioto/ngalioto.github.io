@@ -8,7 +8,7 @@ date: 2022-06-09
 location: "Oslo, Norway"
 ---
 
-[Minisymposium](https://www.eccomas2022.org/frontal/ProgMS.asp?id=17) presentation at [8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS)](https://www.eccomas2022.org/frontal/).
+[Minisymposium](https://www.eccomas2022.org/frontal/ProgMS.asp?id=17) presentation at [8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS)](https://www.eccomas2022.org/frontal/). The slides can be found [here](../files/2022-eccomas-slides.pdf).
 
 In problems of model inadequacy, where only a portion of the full model is known, we would oftentimes like to learn the unknown component of the model. Many of the existing system ID approaches consider only the discrepancy between the model output and the data (i.e., measurement uncertainty), and they neglect the effects of the uncertainty present in the unknown model itself. To address this shortcoming, we present a system ID modeling framework for dynamical systems that is able to account for the three different types of uncertainty that enter into a system ID problem: parameter, model, and measurement uncertainty.  Our approach directly accounts for model errors/uncertainties by modeling the dynamics as a stochastic process.
 

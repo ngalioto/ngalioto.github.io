@@ -25,20 +25,19 @@ University of Michigan<br>
 Ann Arbor, MI<br>
 *July 2023 -- Present*
 
-**Description**<br>
-* Conducts research on system identification of dynamical systems using Bayesian inference/uncertainty quantification resulting in publications/talks.
-* Formulates and implements statistical learning algorithms that can outperform popular methods under high uncertainty.
-* Communicates with other researchers how to utilize work in pursuit of their research interests.
+
+## Graduate Student Research Assistant
+
+University of Michigan<br>
+Ann Arbor, MI<br>
+*August 2018 -- July 2023*
+
 
 ## R&D Graduate Summer Intern
 Sandia National Laboratories<br>
 Livermore, CA<br>
 *May 2022 -- August 2022*
 
-**Description**<br>
-* Independently researched the applicability of functional tensor networks and variational inference for scalable Bayesian estimation of dynamical systems.
-* Implemented tensor-train and sampling algorithms and integrated them with pre-existing code.
-* Composed a summer-end technical report detailing research findings, conclusions, and future work.
 
 # Teaching Assistantships
 
@@ -52,6 +51,15 @@ Livermore, CA<br>
 * ME 3224: Fluid mechanics<br>
   *Fall 2017*
 
+# Selected Graduate Coursework
+* EECS 550: Information theory
+* MATH 590: An introduction to topology
+* EECS 598: Randomized numerical linear algebra for machine learning
+* MATH 551: Introduction to real analysis
+* MATH 558: Applied nonlinear dynamics
+* MATH 571: Numerical linear algebra
+* MATH 525: Probability theory
+
 # Professional Memberships
 
 * United States Association for Computational Mechanics (USACM)<br>
@@ -60,5 +68,9 @@ Livermore, CA<br>
   *2021 -- Present*
 * Institute of Electrical and Electronics Engineers (IEEE)<br>
   *2020 -- Present*
+
+# Awards
+* Michigan Institute for Computational Discovery and Engineering Fellowship
+*2021 -- 2022*
 
 

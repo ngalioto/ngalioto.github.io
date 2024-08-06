@@ -22,6 +22,6 @@ Recommended BibTeX entry:
   volume = {462},
   pages = {134146},
   year = {2024},
-  issn = {0167-2789}
+  issn = {0045-7825}
 }
 ```

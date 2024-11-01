@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar talk"
 permalink: /talks/2024-sciml
 venue: "Walter E. Lay Auto Lab"
-date: 2024-07-24
+date: 2024-11-01
 location: "Ann Arbor, MI, USA"
 ---
 

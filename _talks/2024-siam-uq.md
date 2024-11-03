@@ -1,5 +1,5 @@
 ---
-title: "Correcting for Error in Reduced-Order Modeling Using Experimental Partial Observations and Bayesian System ID"
+title: "Correcting for error in reduced-order modeling using experimental partial observations and Bayesian system ID"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2024-siam-uq

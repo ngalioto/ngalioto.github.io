@@ -5,7 +5,7 @@ type: "Conference presentation"
 permalink: /talks/2022-siam-mds
 venue: "Town and Country Resort"
 date: 2022-09-26
-location: "San Diego, California, USA"
+location: "San Diego, CA, USA"
 ---
 
 [Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=74451) presentation at [SIAM Conference on Mathematics of Data Science (MDS22)](https://www.siam.org/conferences/cm/conference/mds22). The slides can be found [here](../files/2022-siam-mds-slides.pdf).

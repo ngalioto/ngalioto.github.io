@@ -69,6 +69,13 @@ Livermore, CA<br>
 * Institute of Electrical and Electronics Engineers (IEEE)<br>
   *2020 -- Present*
 
+# Reviewer
+
+* Journal of Aerospace Information Systems
+* Journal of Machine Learning for Modeling and Computing
+* IEEE Transactions on Automatic Control
+* IEEE Conference on Decision and Control
+
 # Awards
 * Michigan Institute for Computational Discovery and Engineering Fellowship
 *2021 -- 2022*

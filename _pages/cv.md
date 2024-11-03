@@ -69,7 +69,7 @@ Livermore, CA<br>
 * Institute of Electrical and Electronics Engineers (IEEE)<br>
   *2020 -- Present*
 
-# Reviewer
+# Reviews
 
 * Journal of Aerospace Information Systems
 * Journal of Machine Learning for Modeling and Computing

@@ -11,7 +11,7 @@ author_profile: true
   <p>{{ project.title }}</p>
 {% endfor %}
 
-{% for project in site.software | sort: "weight" %}
-  {% include archive-single.html project=project %}
+{% for post in site.software | sort: "weight" %}
+  {% include archive-single-talk.html %}
 {% endfor %}
 

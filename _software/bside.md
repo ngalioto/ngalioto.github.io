@@ -7,4 +7,4 @@ link: "https://github.com/ngalioto/bside"
 weight: 1
 ---
 
-<!-- More details about the project here. -->
+A Bayesian system identification toolbox.

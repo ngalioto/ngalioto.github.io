@@ -7,4 +7,4 @@ link: "https://github.com/ngalioto/dgc"
 weight: 3
 ---
 
-<!-- More details about the project here. -->
+An algorithm for data-guided control.

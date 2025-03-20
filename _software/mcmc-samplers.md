@@ -7,4 +7,4 @@ link: "https://github.com/ngalioto/mcmc-samplers"
 weight: 2
 ---
 
-<!-- More details about the project here. -->
+MCMC sampling with PyTorch.

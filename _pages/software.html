@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for project in site.software %}
-  <p>{{ project.title }}</p>
-{% endfor %}
-
 {% for post in site.software | sort: "weight" %}
   {% include archive-single-talk.html %}
 {% endfor %}

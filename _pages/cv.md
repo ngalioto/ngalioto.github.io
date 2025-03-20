@@ -73,6 +73,7 @@ Livermore, CA<br>
 
 * Journal of Aerospace Information Systems
 * Journal of Machine Learning for Modeling and Computing
+* Journal of the Royal Society Interface
 * IEEE Transactions on Automatic Control
 * IEEE Conference on Decision and Control
 

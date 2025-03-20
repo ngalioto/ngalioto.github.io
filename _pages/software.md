@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for project in site.software | sort: "weight" %}
+  {% include archive-single.html %}
+{% endfor %}
+
